@@ -1,0 +1,80 @@
+_cafe
+>setScene | cafe | Outlanders Cafe 
+
+You enter the cafe to the sound of Hank Williams blaring on the juke box. 
+A pretty dark haired waitress who seems to have been run off her feet all day smiles at you and hands you a menu.
+
+@waitress You can sit wherever you like sir.
+* A booth by the window [sitInbooth]
+    You sit down in the empty booth.
+    You drum your fingers on the formica table and watch the cars speed by on the interstate.
+    * Keep looking out the window
+        You see a man on a motorcyle. You decide to stop looking.
+    * Go to the Bathroom
+        The bathroom is old and cheap. You leave.
+    >choice
+* Back in the corner so you can see the whole resteraunt. [sitAtTable]
+    Safety is important. Even for demons.
+>choice
+
+This day feels endless.
+You're here for a meeting with the maggot.
+You and your crew call him that but the name he goes by isn't much better.
+
+The waitress arrives at your Table. Her name tag says Mindy.
+
+@waitress Ready to order?
+* Not just yet [waitToOrder]
+    @winter Not yet. I'm waiting for someone, unfortunately.
+* Coffee ASAP [orderCoffee]
+    @winter Coffee, black. And I'm going need another hundred or so packs of sugar.
+>choice
+
+The waitress smirks.
+@waitress Ok, back in a bit then.
+
+
+And now the inevitable. You down have to look up. 
+You hear the shuffling of feet and a shadow falls across your table.
+
+@snitch Hello, Winter.
+
+And the smell. Why does he always smell like that?
+
+You look up and he's standing in front of you. Tall and too skinny to be real.
+Bald too, gaunt with dark eyes and yellow teeth.
+He looks like a human who's been turned but he's not. 
+He's a third level ass kisser here on official business and from his smug face you're sure he wants you to know that too.
+
+@winter Hello, Snitch.
+
+
+
+
+
+@snitch So how have you been?
+
+* Nearly dead. 
+    @winter I'm ready to stab myself in the brain with an icepick, Snitch.
+    @snitch It wouldn't kill you I'm afraid.
+    @snitch The pain would be glorious though, wouldn't it.
+    
+* Not doing well. 
+    @winter
+    
+>choice 
+
+Snitch sneers at you. 
+
+@winter You know we've been working solid for three months. 
+@winter We don't sleep.
+@winter We don't sleep, Snitch. We're just out here churning away.
+@snitch Excuses are easy Winter.
+* @winter Not excuses. Reality.
+    @snitch Oh, is that what you call it now. I thought laziness was more applicable.
+
+---
+
+
+
+
